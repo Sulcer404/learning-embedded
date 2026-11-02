@@ -1,1 +1,8 @@
 /UART_ukazni terminal/Debug
+Debug/
+Release/
+.metadata/
+*.o
+*.elf
+*.su
+*.cyclo
